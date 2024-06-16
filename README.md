@@ -1,1 +1,2 @@
 # snakemake_wrappers
+yes
