@@ -1,61 +1,6 @@
-# This file may be used to create an environment using:
-# $ conda create --name <env> --file <this file>
-# platform: linux-64
-@EXPLICIT
-http://mirrors.pku.edu.cn/anaconda/cloud/conda-forge/linux-64/_libgcc_mutex-0.1-conda_forge.tar.bz2#d7c89558ba9fa0495403155b64376d81
-http://mirrors.pku.edu.cn/anaconda/pkgs/main/linux-64/ca-certificates-2024.3.11-h06a4308_0.conda#08529eb3504712baabcbda266a19feb7
-http://mirrors.pku.edu.cn/anaconda/cloud/bioconda/linux-64/popt-1.16-1.tar.bz2#576bc7df9f7ef12c95a0ee112faa1c48
-http://mirrors.pku.edu.cn/anaconda/cloud/conda-forge/linux-64/libgomp-13.2.0-h77fa898_10.conda#9404d1686e63142d41acc72ef876a588
-http://mirrors.pku.edu.cn/anaconda/cloud/conda-forge/linux-64/_openmp_mutex-4.5-2_gnu.tar.bz2#73aaf86a425cc6e73fcf236a5a46396d
-http://mirrors.pku.edu.cn/anaconda/cloud/conda-forge/linux-64/libgcc-ng-13.2.0-h77fa898_10.conda#bbb96c5e7a11ef8ca2b666fe9fe3d199
-http://mirrors.pku.edu.cn/anaconda/pkgs/main/linux-64/bzip2-1.0.8-h5eee18b_6.conda#f21a3ff51c1b271977f53ce956a69297
-http://mirrors.pku.edu.cn/anaconda/pkgs/main/linux-64/c-ares-1.19.1-h5eee18b_0.conda#6cfbce52273a1cb888821f18ceaa83c4
-http://mirrors.pku.edu.cn/anaconda/pkgs/main/linux-64/libev-4.33-h7f8727e_1.conda#5065620db4393fb549f30114a33897d1
-http://mirrors.pku.edu.cn/anaconda/cloud/conda-forge/linux-64/libiconv-1.17-hd590300_2.conda#d66573916ffcf376178462f1b61c941e
-http://mirrors.pku.edu.cn/anaconda/pkgs/main/linux-64/libnsl-2.0.0-h5eee18b_0.conda#55e3f1b0c2a70454cdf1a5d64fb44752
-http://mirrors.pku.edu.cn/anaconda/cloud/conda-forge/linux-64/libstdcxx-ng-13.2.0-hc0a3c3a_10.conda#ea50441ab527f23ffa108ade07e2fde0
-http://mirrors.pku.edu.cn/anaconda/pkgs/main/linux-64/libunistring-0.9.10-h27cfd23_0.conda#5b6ed6cd1b1ca3a383daef1d6464d02a
-http://mirrors.pku.edu.cn/anaconda/cloud/conda-forge/linux-64/libzlib-1.2.13-h4ab18f5_6.conda#27329162c0dc732bcf67a4e0cd488125
-http://mirrors.pku.edu.cn/anaconda/pkgs/main/linux-64/ncurses-6.4-h6a678d5_0.conda#5558eec6e2191741a92f832ea826251c
-http://mirrors.pku.edu.cn/anaconda/cloud/conda-forge/linux-64/openssl-3.3.1-h4ab18f5_0.conda#a41fa0e391cc9e0d6b78ac69ca047a6c
-http://mirrors.pku.edu.cn/anaconda/cloud/conda-forge/linux-64/xxhash-0.8.2-hd590300_0.conda#f08fb5c89edfc4aadee1c81d4cfb1fa1
-http://mirrors.pku.edu.cn/anaconda/pkgs/main/linux-64/xz-5.4.6-h5eee18b_1.conda#1562802f843297ee776a50b9329597ed
-http://mirrors.pku.edu.cn/anaconda/pkgs/main/linux-64/libedit-3.1.20230828-h5eee18b_0.conda#850eb5a9d2d7d3c66cce12e84406ca08
-http://mirrors.pku.edu.cn/anaconda/pkgs/main/linux-64/libidn2-2.3.4-h5eee18b_0.conda#2bd46aa89ec576ad787afcdd93e5eafb
-http://mirrors.pku.edu.cn/anaconda/cloud/conda-forge/linux-64/libsqlite-3.46.0-hde9e2c9_0.conda#18aa975d2094c34aef978060ae7da7d8
-http://mirrors.pku.edu.cn/anaconda/pkgs/main/linux-64/lz4-c-1.9.4-h6a678d5_1.conda#2ee58861f2b92b868ce761abb831819d
-http://mirrors.pku.edu.cn/anaconda/cloud/bioconda/linux-64/ncbi-vdb-3.1.1-h4ac6f70_0.tar.bz2#4cbc542ee7db0710bdf07a4e55f5daaf
-http://mirrors.pku.edu.cn/anaconda/pkgs/main/linux-64/pcre-8.45-h295c915_0.conda#b32ccc24d1d9808618c1e898da60f68d
-http://mirrors.pku.edu.cn/anaconda/pkgs/main/linux-64/perl-5.32.1-0_h5eee18b_perl5.conda#bcfda54960f1646e408a6a4764b6530a
-http://mirrors.pku.edu.cn/anaconda/cloud/conda-forge/linux-64/tar-1.34-hb2e2bae_1.tar.bz2#55aeaa9caf9a1cfd1a8cd3ad4e7885ea
-http://mirrors.pku.edu.cn/anaconda/cloud/conda-forge/linux-64/zlib-1.2.13-h4ab18f5_6.conda#559d338a4234c2ad6e676f460a093e67
-http://mirrors.pku.edu.cn/anaconda/pkgs/main/linux-64/krb5-1.20.1-h143b758_1.conda#cf1accc86321fa25d6b978cc748039ae
-http://mirrors.pku.edu.cn/anaconda/pkgs/main/linux-64/libnghttp2-1.57.0-h2d74bed_0.conda#674871621300f54e7ffcf93e6e341638
-http://mirrors.pku.edu.cn/anaconda/pkgs/main/linux-64/libssh2-1.11.0-h251f7ec_0.conda#ce46cf257d73fe85c18c78597196f0d8
-http://mirrors.pku.edu.cn/anaconda/cloud/bioconda/noarch/perl-common-sense-3.75-pl5321hdfd78af_0.tar.bz2#e2b8ed203949cd454cdfa947b31eef3e
-http://mirrors.pku.edu.cn/anaconda/cloud/bioconda/linux-64/perl-compress-raw-bzip2-2.201-pl5321h87f3376_1.tar.bz2#1f59b739cceb60c0418df32ff64ed0c0
-http://mirrors.pku.edu.cn/anaconda/cloud/bioconda/linux-64/perl-compress-raw-zlib-2.105-pl5321h87f3376_0.tar.bz2#6b25bedc10361529a269b523cc589afd
-http://mirrors.pku.edu.cn/anaconda/cloud/bioconda/noarch/perl-exporter-5.72-pl5321hdfd78af_2.tar.bz2#7353e88329199d78b6e4c7bef4fc835e
-http://mirrors.pku.edu.cn/anaconda/cloud/bioconda/noarch/perl-exporter-tiny-1.002002-pl5321hdfd78af_0.tar.bz2#4cf435ed1fd536725957dda475522f57
-http://mirrors.pku.edu.cn/anaconda/cloud/conda-forge/noarch/perl-extutils-makemaker-7.70-pl5321hd8ed1ab_0.conda#ec3e57ed34f7765bfc7054a05868ce5d
-http://mirrors.pku.edu.cn/anaconda/cloud/bioconda/noarch/perl-io-zlib-1.14-pl5321hdfd78af_0.tar.bz2#eadd0d684a0e22f08cccd6783c97606e
-http://mirrors.pku.edu.cn/anaconda/cloud/bioconda/linux-64/perl-list-moreutils-xs-0.430-pl5321h031d066_2.tar.bz2#116a0e93733b7004356aef80a1751dec
-http://mirrors.pku.edu.cn/anaconda/cloud/bioconda/noarch/perl-parent-0.236-pl5321hdfd78af_2.tar.bz2#39654d6adccb863ac8973da0f745dd52
-http://mirrors.pku.edu.cn/anaconda/cloud/bioconda/linux-64/perl-scalar-list-utils-1.62-pl5321hec16e2b_1.tar.bz2#2ef171e027d0b34a7dfb3e4a3a7ef02e
-http://mirrors.pku.edu.cn/anaconda/pkgs/main/linux-64/wget-1.21.4-h251f7ec_1.conda#01e610fdc35c241d6bacce7961353c12
-http://mirrors.pku.edu.cn/anaconda/pkgs/main/linux-64/zstd-1.5.5-hc292b87_2.conda#3b7fe809e5b429b4f90fe064842a2370
-http://mirrors.pku.edu.cn/anaconda/cloud/bioconda/linux-64/entrez-direct-22.1-he881be0_0.tar.bz2#57b4957374cfeb937f02aa75670b02fa
-http://mirrors.pku.edu.cn/anaconda/pkgs/main/linux-64/libcurl-8.7.1-h251f7ec_0.conda#638287212dd4b94422aa38a3647bb25e
-http://mirrors.pku.edu.cn/anaconda/cloud/bioconda/noarch/perl-carp-1.38-pl5321hdfd78af_4.tar.bz2#e4cbd5d05ff5018e31668ae0b4a47a05
-http://mirrors.pku.edu.cn/anaconda/cloud/bioconda/linux-64/perl-encode-3.19-pl5321hec16e2b_1.tar.bz2#b2925d6255f57feeb61b5fa04d99fbf3
-http://mirrors.pku.edu.cn/anaconda/cloud/bioconda/noarch/perl-list-moreutils-0.430-pl5321hdfd78af_0.tar.bz2#7f04c79d216d0f8e7b6d5a51de4aafa0
-http://mirrors.pku.edu.cn/anaconda/cloud/bioconda/noarch/perl-types-serialiser-1.01-pl5321hdfd78af_0.tar.bz2#cfc65753e827bbef80c00eaa395f6ae7
-http://mirrors.pku.edu.cn/anaconda/cloud/conda-forge/linux-64/rsync-3.3.0-he6cb5fe_0.conda#27da3fb7abe92e3ef592eda5321a0230
-http://mirrors.pku.edu.cn/anaconda/pkgs/main/linux-64/curl-8.7.1-hdbd6064_0.conda#310268ef7340124e1b31ad18d8f68f51
-http://mirrors.pku.edu.cn/anaconda/cloud/bioconda/linux-64/perl-io-compress-2.201-pl5321hdbdd923_2.tar.bz2#f40f599ce37ad75715bab686baa08197
-http://mirrors.pku.edu.cn/anaconda/cloud/bioconda/linux-64/perl-json-xs-2.34-pl5321h4ac6f70_6.tar.bz2#e01a73e25a790b129920f9e663e4935f
-http://mirrors.pku.edu.cn/anaconda/cloud/bioconda/linux-64/perl-pathtools-3.75-pl5321hec16e2b_3.tar.bz2#9afaabf835f20ff137b71dd25022687d
-http://mirrors.pku.edu.cn/anaconda/cloud/bioconda/noarch/perl-archive-tar-2.40-pl5321hdfd78af_0.tar.bz2#ef5f007762b5ad9425694104d7db4463
-http://mirrors.pku.edu.cn/anaconda/cloud/bioconda/noarch/perl-json-4.10-pl5321hdfd78af_0.tar.bz2#05467eeb1e57206d8dddf31c3128cd00
-http://mirrors.pku.edu.cn/anaconda/cloud/bioconda/linux-64/blast-2.15.0-pl5321h6f7f691_1.tar.bz2#f7e6a87317b5d00469d39a2d1ef2698f
-http://mirrors.pku.edu.cn/anaconda/cloud/bioconda/linux-64/kraken2-2.1.3-pl5321hdcf5f25_1.tar.bz2#41b72c2983a41cb203db00f73b7f521c
+channels:
+  - conda-forge
+  - bioconda
+  - nodefaults
+dependencies:
+  - kraken2 =2.1.3-0
