@@ -1,4 +1,3 @@
-name: kraken2
 channels:
   - http://mirrors.pku.edu.cn/anaconda/pkgs/main
   - http://mirrors.pku.edu.cn/anaconda/cloud/bioconda
